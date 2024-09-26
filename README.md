@@ -11,7 +11,7 @@ La calculadora permite ?????, con el objetivo de reforzar conceptos básicos de 
 ## Instalación
 1. Clona este repositorio en tu máquina local:
 
-   **git clone <url-del-repositorio>**
+   **git clone (url-del-repositorio)**
 
 2. Navega al directorio del proyecto:
 
