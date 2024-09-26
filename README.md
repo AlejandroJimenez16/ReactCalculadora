@@ -1,5 +1,5 @@
 ## Contador React
-Este proyecto es una calculadora simple creada con React, desarrollado como un ejercicio de práctica siguiendo un tutorial de freeCodeCamp.
+Este proyecto es una **calculadora** simple creada con **React**, desarrollado como un ejercicio de práctica siguiendo un tutorial de freeCodeCamp.
 
 ## Descripción
 La calculadora permite ?????, con el objetivo de reforzar conceptos básicos de React como estados y eventos. Es una excelente manera de familiarizarse con el flujo de trabajo de React y mejorar la lógica de componentes.
