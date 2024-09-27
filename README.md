@@ -1,4 +1,4 @@
-## Contador React
+## Calculadora React
 Este proyecto es una **calculadora** simple creada con **React**, desarrollado como un ejercicio de práctica siguiendo un tutorial de freeCodeCamp.
 
 ## Descripción
