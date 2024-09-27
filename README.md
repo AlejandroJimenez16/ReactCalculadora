@@ -2,7 +2,7 @@
 Este proyecto es una **calculadora** simple creada con **React**, desarrollado como un ejercicio de práctica siguiendo un tutorial de freeCodeCamp.
 
 ## Descripción
-La calculadora permite ?????, con el objetivo de reforzar conceptos básicos de React como estados y eventos. Es una excelente manera de familiarizarse con el flujo de trabajo de React y mejorar la lógica de componentes.
+Esta calculadora permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división. Cuenta con una pantalla donde se muestran los resultados y un botón para limpiar la pantalla. El proyecto tiene como objetivo reforzar conceptos fundamentales de React.
 
 ## Requisitos
 - Node.js instalado
