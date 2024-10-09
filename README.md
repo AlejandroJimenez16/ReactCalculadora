@@ -11,20 +11,28 @@ Esta calculadora permite realizar operaciones matemáticas básicas como suma, r
 ## Instalación
 1. Clona este repositorio en tu máquina local:
 
-   **git clone (url-del-repositorio)**
+   ```bash
+   git clone https://github.com/AlejandroJimenez16/ReactCalculadora.git
+   ```
 
 2. Navega al directorio del proyecto:
 
-   **cd nombre-del-proyecto**
+   ```bash
+   cd ReactCalculadora
+   ```
 
 3. Instala las dependencias necesarias:
 
-   **npm install**
+   ```bash
+   npm install
+   ```
 
 ## Uso
 Para ejecutar el proyecto en un entorno de desarrollo, usa el siguiente comando:
 
-**npm start**
+```bash
+   npm start
+   ```
 
 Esto abrirá el proyecto en tu navegador en [http://localhost:3000](http://localhost:3000) (por defecto).
 
